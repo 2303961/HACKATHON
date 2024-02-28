@@ -1,0 +1,18 @@
+09:58:06.836 [main] INFO  testCases.TC_01 - ********************Starting TC_01************************
+09:58:08.401 [main] INFO  testCases.TC_01 - ********************ENTER TENURE YEAR************************
+09:58:08.852 [main] INFO  testCases.TC_01 - ********************ENTER TENURE MONTH************************
+09:58:09.382 [main] INFO  testCases.TC_01 - ********************PRINT ONE MONTH INTREST AMOUNT ************************
+09:58:09.522 [main] INFO  testCases.TC_01 - ********************PRINT ONE MONTH PRINCIPLE AMOUNT************************
+09:58:09.870 [main] INFO  testCases.TC_01 - ********************STARTED HOMELOAN PAGE************************
+09:58:24.759 [main] INFO  testCases.TC_01 - ********************STORING HOMELOAN TABLE INTO AN EXCEL************************
+09:58:39.110 [main] INFO  testCases.TC_01 - ********************ENTER INTO A EMI LOAN PAGE************************
+09:58:43.049 [main] INFO  testCases.TC_01 - ********************VALIDATING ALL SEARCHBOX AND SLIDERS************************
+10:09:07.559 [main] INFO  testCases.TC_01 - ********************Starting TC_01************************
+10:09:09.974 [main] INFO  testCases.TC_01 - ********************ENTER TENURE YEAR************************
+10:09:10.787 [main] INFO  testCases.TC_01 - ********************ENTER TENURE MONTH************************
+10:09:11.497 [main] INFO  testCases.TC_01 - ********************PRINT ONE MONTH INTREST AMOUNT ************************
+10:09:11.727 [main] INFO  testCases.TC_01 - ********************PRINT ONE MONTH PRINCIPLE AMOUNT************************
+10:09:12.249 [main] INFO  testCases.TC_01 - ********************STARTED HOMELOAN PAGE************************
+10:09:27.579 [main] INFO  testCases.TC_01 - ********************STORING HOMELOAN TABLE INTO AN EXCEL************************
+10:09:43.407 [main] INFO  testCases.TC_01 - ********************ENTER INTO A EMI LOAN PAGE************************
+10:09:46.615 [main] INFO  testCases.TC_01 - ********************VALIDATING ALL SEARCHBOX AND SLIDERS************************
